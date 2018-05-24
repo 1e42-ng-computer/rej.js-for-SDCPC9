@@ -16,5 +16,5 @@ Uses rejudged data from [https://www.zhihu.com/question/272062934/answer/3652226
 4. Copy and paste the command below and press enter
 
 ```js
-(function(){var r=document.createElement('script');r.setAttribute('src','https://cdn.rawgit.com/1e42-ng-computer/rej.js-for-SDCPC9/master/rej.js');document.body.appendChild(r);r.addEventListener('load',function(){rejudge();});})()
+(function(){var r=document.createElement('script');r.setAttribute('src','https://cdn.rawgit.com/1e42-ng-computer/rej.js-for-SDCPC9/master/rej.js');document.body.appendChild(r);r.addEventListener('load',function(){rejudge()})})()
 ```
