@@ -1,7 +1,7 @@
 'use strict';
 
 /*
- * Autho: 1e42-ng-computer
+ * Author: 1e42-ng-computer
  * Date: 2018-05-24
  */
 
